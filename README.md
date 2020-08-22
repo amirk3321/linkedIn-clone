@@ -32,7 +32,7 @@
 <br />
 <br />
 <img src="https://user-images.githubusercontent.com/10207753/84770526-2589fa00-aff1-11ea-83bf-f1255b9371ac.jpg" width="50" height="30" />
-<a href="https://youtu.be/jjceXgkeoRc">Watch Flutter Car Rental app - Responsive UI complete video </a>
+<a href="https://youtu.be/GaJ4N9flt6c">Watch Flutter LinkedIn Clone App - Responsive UI complete video </a>
 </p>
 <br />
 
